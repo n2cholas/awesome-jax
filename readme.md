@@ -1,4 +1,4 @@
-# Awesome Jax [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome JAX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome JAX libraries, projects, and other resources. Inspired by [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow).
 
