@@ -86,6 +86,7 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [Differentiable Path Tracing on the GPU/TPU](https://blog.evjang.com/2019/11/jaxpt.html) - tutorial on implementing path tracing.
 - [Ensemble networks](http://matpalm.com/blog/ensemble_nets) - ensemble nets are a method of representing an ensemble of models as one single logical model.
 - [Out of distribution (OOD) detection](http://matpalm.com/blog/ood_using_focal_loss) - implements different methods for OOD detection.
+- [Understanding Autodiff with JAX](https://www.radx.in/jax.html) - understand autodiff implementation while working with JAX
 
 <a name="community" />
 
