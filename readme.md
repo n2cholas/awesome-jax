@@ -65,6 +65,7 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [Using JAX to accelerate our research](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) - describes the state of JAX and the JAX ecosystem at DeepMind.
 - [Getting started with JAX (MLPs, CNNs & RNNs)](https://roberttlange.github.io/posts/2020/03/blog-post-10/) - neural network building blocks from scratch with the basic JAX operators.
 - [Plugging Into JAX](https://medium.com/swlh/plugging-into-jax-16c120ec3302) - compared Flax, Haiku, and Objax on the Kaggle flower classification challenge.
+- [Understanding Autodiff with JAX](https://www.radx.in/jax.html) - understand autodiff implementation while working with JAX
 
 <a name="community" />
 
