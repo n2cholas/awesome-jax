@@ -35,6 +35,7 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [Chex](https://github.com/deepmind/chex) - utilities to write and test reliable JAX code.
 - [Optax](https://github.com/deepmind/optax) - a gradient processing and optimization library.
 - [JAX, M.D.](https://github.com/google/jax-md) - accelerated, differential molecular dynamics.
+- [jax-unirep](https://github.com/ElArkk/jax-unirep) - JAX implementation of the UniRep protein RNN.
 
 <a name="projects" />
 
