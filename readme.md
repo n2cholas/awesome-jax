@@ -35,6 +35,9 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [Chex](https://github.com/deepmind/chex) - utilities to write and test reliable JAX code.
 - [Optax](https://github.com/deepmind/optax) - a gradient processing and optimization library.
 - [JAX, M.D.](https://github.com/google/jax-md) - accelerated, differential molecular dynamics.
+- [Parallax](https://github.com/srush/parallax) - prototype immutable torch modules for JAX.
+- [Elegy](https://github.com/poets-ai/elegy/) - a Neural Networks framework based on Jax and inspired by Keras.
+- [Coax](https://github.com/microsoft/coax) - Turn RL papers into code, the easy way.
 
 <a name="projects" />
 
