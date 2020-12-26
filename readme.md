@@ -46,6 +46,9 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [Flax Models](https://github.com/google-research/google-research/tree/master/flax_models) - collection of open-sourced Flax models.
 - [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) - implementation of [_NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
 - [Big Transfer (BiT)](https://github.com/google-research/big_transfer) - implementation of [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370),
+- [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
+- [jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX.
+- [sklearn-jax-kernels](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX.
 
 <a name="videos" />
 
