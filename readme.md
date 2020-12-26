@@ -85,6 +85,7 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 - [Ensemble networks by Mat Kelcey](http://matpalm.com/blog/ensemble_nets) - ensemble nets are a method of representing an ensemble of models as one single logical model.
 - [Out of distribution (OOD) detection  by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - implements different methods for OOD detection.
 - [Understanding Autodiff with JAX by Srihari Radhakrishna](https://www.radx.in/jax.html) - understand how autodiff works using JAX.
+- [From PyTorch to JAX: towards neural net frameworks that purify stateful code by Sabrina J. Mielke](https://sjmielke.com/jax-purify.htm) - showcases how to go from a PyTorch-like style of coding to a more Functional-style of coding. 
 
 <a name="community" />
 
