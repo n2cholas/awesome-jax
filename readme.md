@@ -38,7 +38,6 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [JAX, M.D.](https://github.com/google/jax-md) - accelerated, differential molecular dynamics.
 - [Coax](https://github.com/microsoft/coax) - turn RL papers into code, the easy way.
 - [jax-unirep](https://github.com/ElArkk/jax-unirep) - library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications.
-- [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
 - [jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX.
 - [sklearn-jax-kernels](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX.
 
@@ -51,7 +50,8 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [Fourier Feature Networks](https://github.com/tancik/fourier-feature-networks) - official implementation of [_Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains_](https://people.eecs.berkeley.edu/~bmild/fourfeat).
 - [Flax Models](https://github.com/google-research/google-research/tree/master/flax_models) - collection of open-sourced Flax models.
 - [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) - implementation of [_NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
-- [Big Transfer (BiT)](https://github.com/google-research/big_transfer) - implementation of [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370),
+- [Big Transfer (BiT)](https://github.com/google-research/big_transfer) - implementation of [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370).
+- [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
 
 <a name="videos" />
 
