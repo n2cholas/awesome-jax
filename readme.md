@@ -31,10 +31,12 @@ JAX brings automatic differentiation and the XLA compiler together through a num
     - [Trax](https://github.com/google/trax) - a "batteries included" deep learning library focused on providing solutions for common workloads.
     - [Jraph](https://github.com/deepmind/jraph) - a lightweight graph neural network library.
     - [FedJAX](https://github.com/google/fedjax) - federated learning in JAX, built on Optax and Haiku.
+    - [Parallax](https://github.com/srush/parallax) - prototype immutable torch modules for JAX.
 - [NumPyro](https://github.com/pyro-ppl/numpyro) - probabilistic programming based on the Pyro library.
 - [Chex](https://github.com/deepmind/chex) - utilities to write and test reliable JAX code.
 - [Optax](https://github.com/deepmind/optax) - a gradient processing and optimization library.
 - [JAX, M.D.](https://github.com/google/jax-md) - accelerated, differential molecular dynamics.
+- [Coax](https://github.com/microsoft/coax) - turn RL papers into code, the easy way.
 - [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
 - [jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX.
 - [sklearn-jax-kernels](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX.
