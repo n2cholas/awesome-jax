@@ -31,11 +31,14 @@ JAX brings automatic differentiation and the XLA compiler together through a num
     - [Trax](https://github.com/google/trax) - a "batteries included" deep learning library focused on providing solutions for common workloads.
     - [Jraph](https://github.com/deepmind/jraph) - a lightweight graph neural network library.
     - [FedJAX](https://github.com/google/fedjax) - federated learning in JAX, built on Optax and Haiku.
+    - [Parallax](https://github.com/srush/parallax) - prototype immutable torch modules for JAX.
 - [NumPyro](https://github.com/pyro-ppl/numpyro) - probabilistic programming based on the Pyro library.
 - [Chex](https://github.com/deepmind/chex) - utilities to write and test reliable JAX code.
 - [Optax](https://github.com/deepmind/optax) - a gradient processing and optimization library.
 - [JAX, M.D.](https://github.com/google/jax-md) - accelerated, differential molecular dynamics.
+- [Coax](https://github.com/microsoft/coax) - turn RL papers into code, the easy way.
 - [jax-unirep](https://github.com/ElArkk/jax-unirep) - library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications.
+
 
 <a name="projects" />
 
@@ -75,6 +78,7 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 
 - [Using JAX to accelerate our research by David Budden and Matteo Hessel](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) - describes the state of JAX and the JAX ecosystem at DeepMind.
 - [Getting started with JAX (MLPs, CNNs & RNNs) by Robert Lange](https://roberttlange.github.io/posts/2020/03/blog-post-10/) - neural network building blocks from scratch with the basic JAX operators.
+- [Tutorial: image classification with JAX and Flax Linen by 8bitmp3](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - learn how to create a simple convolutional network with the Linen API by Flax and train it to recognize handwritten digits.
 - [Plugging Into JAX by Nick Doiron](https://medium.com/swlh/plugging-into-jax-16c120ec3302) - compared Flax, Haiku, and Objax on the Kaggle flower classification challenge.
 - [Meta-Learning in 50 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/02/maml-jax.html) - intro to both JAX and Meta-Learning.
 - [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - concise implementation of [RealNVP](https://arxiv.org/abs/1605.08803).
