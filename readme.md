@@ -37,6 +37,8 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [Optax](https://github.com/deepmind/optax) - a gradient processing and optimization library.
 - [JAX, M.D.](https://github.com/google/jax-md) - accelerated, differential molecular dynamics.
 - [Coax](https://github.com/microsoft/coax) - turn RL papers into code, the easy way.
+- [jax-unirep](https://github.com/ElArkk/jax-unirep) - library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications.
+
 
 <a name="projects" />
 
