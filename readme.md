@@ -39,10 +39,10 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [jax-unirep](https://github.com/ElArkk/jax-unirep) - library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 - [jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 - [sklearn-jax-kernels](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
-- [SymJAX <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">](https://github.com/SymJAX/SymJAX) - symbolic CPU/GPU/TPU programming 
-- [jax-cosmo <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - a differentiable cosmology library.
-- [mcx <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference.
-- [efax <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX
+- [SymJAX](https://github.com/SymJAX/SymJAX) - symbolic CPU/GPU/TPU programming. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
+- [jax-cosmo](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - a differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
+- [mcx](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
+- [efax](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
 
 
 <a name="projects" />
