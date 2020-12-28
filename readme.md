@@ -56,6 +56,7 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
 - [kalman-jax](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
 - [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
+- [jaxns](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
 
 <a name="videos" />
 
