@@ -40,6 +40,7 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [jax-flows <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX.
 - [sklearn-jax-kernels <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX.
 - [SymJAX <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">](https://github.com/SymJAX/SymJAX) - symbolic CPU/GPU/TPU programming 
+- [jax-cosmo <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - a differentiable cosmology library.
 
 <a name="projects" />
 
