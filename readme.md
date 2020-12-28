@@ -42,6 +42,7 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [SymJAX <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">](https://github.com/SymJAX/SymJAX) - symbolic CPU/GPU/TPU programming 
 - [jax-cosmo <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - a differentiable cosmology library.
 - [mcx <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference.
+- [efax <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX
 
 <a name="projects" />
 
