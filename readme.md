@@ -51,6 +51,8 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) - implementation of [_NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
 - [Big Transfer (BiT)](https://github.com/google-research/big_transfer) - implementation of [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370).
 - [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
+- [kalman-jax](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
+- [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
 
 <a name="videos" />
 
