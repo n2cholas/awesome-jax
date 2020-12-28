@@ -39,6 +39,7 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [jax-unirep <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">](https://github.com/ElArkk/jax-unirep) - library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications.
 - [jax-flows <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX.
 - [sklearn-jax-kernels <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX.
+- [SymJAX <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">](https://github.com/SymJAX/SymJAX) - symbolic CPU/GPU/TPU programming 
 
 <a name="projects" />
 
