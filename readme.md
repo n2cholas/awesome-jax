@@ -10,6 +10,7 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 ## Table of Contents
 
 - [Libraries](#libraries)
+    - [New Libraries](#newlibraries)
 - [Models/Projects](#projects)
 - [Videos](#videos)
 - [Papers](#papers)
@@ -29,19 +30,27 @@ JAX brings automatic differentiation and the XLA compiler together through a num
     - [RLax](https://github.com/deepmind/rlax) - library for implementing reinforcement learning agent. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
     - [Trax](https://github.com/google/trax) - a "batteries included" deep learning library focused on providing solutions for common workloads. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
     - [Jraph](https://github.com/deepmind/jraph) - a lightweight graph neural network library. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
-    - [FedJAX](https://github.com/google/fedjax) - federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
-    - [Parallax](https://github.com/srush/parallax) - prototype immutable torch modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
 - [NumPyro](https://github.com/pyro-ppl/numpyro) - probabilistic programming based on the Pyro library. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
 - [Chex](https://github.com/deepmind/chex) - utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
 - [Optax](https://github.com/deepmind/optax) - a gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
 - [JAX, M.D.](https://github.com/google/jax-md) - accelerated, differential molecular dynamics. <img src="https://img.shields.io/github/stars/google/jax-md?style=social" align="center">
 - [Coax](https://github.com/microsoft/coax) - turn RL papers into code, the easy way. <img src="https://img.shields.io/github/stars/microsoft/coax?style=social" align="center">
+- [SymJAX](https://github.com/SymJAX/SymJAX) - symbolic CPU/GPU/TPU programming. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
+- [mcx](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
+
+
+
+<a name="newlibraries" />
+
+### New Libraries
+
+- Neural Network Libraries
+    - [Parallax](https://github.com/srush/parallax) - prototype immutable torch modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
+    - [FedJAX](https://github.com/google/fedjax) - federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
 - [jax-unirep](https://github.com/ElArkk/jax-unirep) - library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 - [jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 - [sklearn-jax-kernels](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
-- [SymJAX](https://github.com/SymJAX/SymJAX) - symbolic CPU/GPU/TPU programming. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
 - [jax-cosmo](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - a differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
-- [mcx](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
 - [efax](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
 
 
