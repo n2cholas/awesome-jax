@@ -44,6 +44,8 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 
 ### New Libraries
 
+This section contains libraries that are well-made and useful, but have not necessarily been battle-tested by a large userbase yet. 
+
 - Neural Network Libraries
     - [Parallax](https://github.com/srush/parallax) - prototype immutable torch modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
     - [FedJAX](https://github.com/google/fedjax) - federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
