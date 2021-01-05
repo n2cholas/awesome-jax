@@ -39,7 +39,6 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 - [mcx](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
 
 
-
 <a name="newlibraries" />
 
 ### New Libraries
@@ -54,6 +53,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [sklearn-jax-kernels](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
 - [jax-cosmo](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - a differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
 - [efax](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
+- [mpi4jax](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
 
 
 <a name="projects" />
