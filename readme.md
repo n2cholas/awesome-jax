@@ -60,6 +60,7 @@ This section contains libraries that are well-made and useful, but have not nece
 
 ## Models/Projects
 
+- [Performer](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - a Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
 - [Reformer](https://github.com/google/trax/tree/master/trax/models/reformer) - an implementation of the Reformer (efficient transformer) architecture.
 - [Vision Transformer](https://github.com/google-research/vision_transformer) - official implementation in Flax of [_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale_](https://arxiv.org/abs/2010.11929).
 - [Fourier Feature Networks](https://github.com/tancik/fourier-feature-networks) - official implementation of [_Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains_](https://people.eecs.berkeley.edu/~bmild/fourfeat).
