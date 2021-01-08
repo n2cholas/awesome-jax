@@ -75,6 +75,7 @@ This section contains libraries that are well-made and useful, but have not nece
 
 ## Videos
 
+- [NeurIPS 2020: JAX Ecosystem Meetup](https://www.youtube.com/watch?v=iDxJxIyzSiM) - JAX, its use at DeepMind, and discussion between engineers, scientists, and JAX core team
 - [Introduction to JAX](https://youtu.be/0mVmRHMaOJ4) - a simple neural network from scratch in JAX.
 - [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) - JAX’s core design, how it’s powering new research, and how you can start using it.
 - [Bayesian Programming with JAX + NumPyro — Andy Kitchen](https://youtu.be/CecuWGpoztw) - introduction to Bayesian modelling using NumPyro.
