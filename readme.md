@@ -30,6 +30,7 @@ JAX brings automatic differentiation and the XLA compiler together through a num
     - [RLax](https://github.com/deepmind/rlax) - library for implementing reinforcement learning agent. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
     - [Trax](https://github.com/google/trax) - a "batteries included" deep learning library focused on providing solutions for common workloads. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
     - [Jraph](https://github.com/deepmind/jraph) - a lightweight graph neural network library. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
+    - [Neural Tangents](https://github.com/google/neural-tangents) - high-level API for specifying neural networks of both finite and _infinite_ width. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
 - [NumPyro](https://github.com/pyro-ppl/numpyro) - probabilistic programming based on the Pyro library. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
 - [Chex](https://github.com/deepmind/chex) - utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
 - [Optax](https://github.com/deepmind/optax) - a gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
@@ -43,7 +44,7 @@ JAX brings automatic differentiation and the XLA compiler together through a num
 
 ### New Libraries
 
-This section contains libraries that are well-made and useful, but have not necessarily been battle-tested by a large userbase yet. 
+This section contains libraries that are well-made and useful, but have not necessarily been battle-tested by a large userbase yet.
 
 - Neural Network Libraries
     - [Parallax](https://github.com/srush/parallax) - prototype immutable torch modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
@@ -108,7 +109,7 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 - [Ensemble networks by Mat Kelcey](http://matpalm.com/blog/ensemble_nets) - ensemble nets are a method of representing an ensemble of models as one single logical model.
 - [Out of distribution (OOD) detection  by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - implements different methods for OOD detection.
 - [Understanding Autodiff with JAX by Srihari Radhakrishna](https://www.radx.in/jax.html) - understand how autodiff works using JAX.
-- [From PyTorch to JAX: towards neural net frameworks that purify stateful code by Sabrina J. Mielke](https://sjmielke.com/jax-purify.htm) - showcases how to go from a PyTorch-like style of coding to a more Functional-style of coding. 
+- [From PyTorch to JAX: towards neural net frameworks that purify stateful code by Sabrina J. Mielke](https://sjmielke.com/jax-purify.htm) - showcases how to go from a PyTorch-like style of coding to a more Functional-style of coding.
 
 <a name="community" />
 
