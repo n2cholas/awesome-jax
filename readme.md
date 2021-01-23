@@ -12,7 +12,6 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [Papers](#papers)
 - [Blog Posts](#blog-posts)
 - [Community](#community)
-- [Contribute](#contribute)
 
 <a name="libraries" />
 
@@ -116,8 +115,6 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 - [JAX GitHub Discussions](https://github.com/google/jax/discussions)
 - [Reddit](https://www.reddit.com/r/JAX/)
 
-<a name="contribute" />
-
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
