@@ -21,7 +21,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
     - [Flax](https://github.com/google/flax) - Centered on flexibility and clarity. <img src="https://img.shields.io/github/stars/google/flax?style=social" align="center">
     - [Haiku](https://github.com/deepmind/dm-haiku) - Focused on simplicity, created by the authors of Sonnet at DeepMind. <img src="https://img.shields.io/github/stars/deepmind/dm-haiku?style=social" align="center">
     - [Objax](https://github.com/google/objax) - Has an object oriented design similar to PyTorch. <img src="https://img.shields.io/github/stars/google/objax?style=social" align="center">
-    - [Elegy](https://poets-ai.github.io/elegy/) - Implements the Keras API with some improvements. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
+    - [Elegy](https://poets-ai.github.io/elegy/) - A framework-agnostic Trainer interface for the Jax ecosystem. Supports Flax, Haiku, and Optax. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
     - [RLax](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
     - [Trax](https://github.com/google/trax) - "Batteries included" deep learning library focused on providing solutions for common workloads. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
     - [Jraph](https://github.com/deepmind/jraph) - Lightweight graph neural network library. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
