@@ -42,7 +42,6 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 This section contains libraries that are well-made and useful, but have not necessarily been battle-tested by a large userbase yet.
 
 - Neural Network Libraries
-    - [Parallax](https://github.com/srush/parallax) - Prototype immutable torch modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
     - [FedJAX](https://github.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
 - [jax-unirep](https://github.com/ElArkk/jax-unirep) - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 - [jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
