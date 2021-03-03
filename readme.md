@@ -10,7 +10,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [Models and Projects](#models-and-projects)
 - [Videos](#videos)
 - [Papers](#papers)
-- [Blog Posts](#blog-posts)
+- [Tutorials and Blog Posts](#blog-posts)
 - [Community](#community)
 
 <a name="libraries" />
