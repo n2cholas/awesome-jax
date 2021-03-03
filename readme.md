@@ -10,7 +10,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [Models and Projects](#models-and-projects)
 - [Videos](#videos)
 - [Papers](#papers)
-- [Tutorials and Blog Posts](#blog-posts)
+- [Tutorials and Blog Posts](#tutorials-and-blog-posts)
 - [Community](#community)
 
 <a name="libraries" />
@@ -96,7 +96,7 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 - [__Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization__. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. _arXiv 2020_.](https://arxiv.org/abs/2010.09063) - Uses JAX's JIT and VMAP to achieve faster differentially private than existing libraries.
 <!--lint enable awesome-list-item-->
 
-<a name="blog-posts" />
+<a name="tutorials-and-blog-posts" />
 
 ## Tutorials and Blog Posts
 
