@@ -50,7 +50,6 @@ This section contains libraries that are well-made and useful, but have not nece
 - [efax](https://github.com/NeilGirdhar/efax) - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
 - [mpi4jax](https://github.com/PhilipVinc/mpi4jax) - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
 - [imax](https://github.com/4rtemi5/imax) - Image augmentations and transformations. <img src="https://img.shields.io/github/stars/4rtemi5/imax?style=social" align="center">
-- [T5X](https://github.com/google-research/google-research/tree/master/flax_models/t5x) - T5 Seq2Seq model. 
 - [FlaxVision](https://github.com/rolandgvc/flaxvision) - Flax version of TorchVision. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
 - [Oryx](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) - Probabilistic programming language based on program transformations.
 
@@ -70,6 +69,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
 - [jaxns](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
 - [Normalizer-Free Networks](https://github.com/deepmind/deepmind-research/tree/master/nfnets) - Official Haiku implementation of [NFNets](https://arxiv.org/abs/2102.06171).
+- [Flax Models](https://github.com/google-research/google-research/tree/master/flax_models) - Collection of models and methods implemented in Flax.
 
 <a name="videos" />
 
