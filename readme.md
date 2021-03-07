@@ -1,6 +1,9 @@
+<!--lint ignore double-link-->
 # Awesome JAX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[<img src="https://raw.githubusercontent.com/google/jax/master/images/jax_logo_250px.png" alt="JAX Logo" align="right" height="100">](https://github.com/google/jax)
 
-JAX brings automatic differentiation and the XLA compiler together through a numpy-like API for high performance machine learning research on accelerators like GPUs and TPUs.
+<!--lint ignore double-link-->
+[JAX](https://github.com/google/jax) brings automatic differentiation and the [XLA compiler](https://www.tensorflow.org/xla) together through a [NumPy](https://numpy.org/)-like API for high performance machine learning research on accelerators like GPUs and TPUs.
+<!--lint enable double-link-->
 
 This is a curated list of awesome JAX libraries, projects, and other resources. Contributions are welcome!
 
