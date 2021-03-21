@@ -73,6 +73,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [jaxns](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
 - [Normalizer-Free Networks](https://github.com/deepmind/deepmind-research/tree/master/nfnets) - Official Haiku implementation of [NFNets](https://arxiv.org/abs/2102.06171).
 - [Distributed Shampoo](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [Second Order Optimization Made Practical](https://arxiv.org/abs/2002.09018).
+- [Optimal Transport Tools](https://github.com/google-research/ott) - Toolbox that bundles utilities to solve optimal transport problems.
 
 <a name="videos" />
 
