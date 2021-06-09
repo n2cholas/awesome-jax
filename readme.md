@@ -131,8 +131,8 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 - [Deterministic ADVI in JAX by Martin Ingram](https://martiningram.github.io/deterministic-advi/) - Walk through of implementing automatic differentiation variational inference (ADVI) easily and cleanly with JAX.
 - [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) - Trains a classification model robust to different combinations of input channels at different resolutions, then uses a genetic algorithm to decide the best combination for a particular loss.
 - [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/pyprobml/blob/master/book1/supplements/jax_intro.ipynb) - Colab that introduces various aspects of the language and applies them to simple ML problems.
-- [Writing an MCMC sampler in JAX](https://www.jeremiecoullon.com/2020/11/10/mcmcjax3ways/) - tutorial on the different ways to write an MCMC sampler in JAX along with speed benchmarks.
-- [How to add a progress bar to JAX scans and loops](https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/) - tutorial on how to add a progress bar to compiled loops in JAX using the `host_callback` module.
+- [Writing an MCMC sampler in JAX](https://www.jeremiecoullon.com/2020/11/10/mcmcjax3ways/) - Tutorial on the different ways to write an MCMC sampler in JAX along with speed benchmarks.
+- [How to add a progress bar to JAX scans and loops](https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/) - Tutorial on how to add a progress bar to compiled loops in JAX using the `host_callback` module.
 
 <a name="community" />
 
