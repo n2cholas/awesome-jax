@@ -86,6 +86,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Normalizer-Free Networks](https://github.com/deepmind/deepmind-research/tree/master/nfnets) - Official Haiku implementation of [NFNets](https://arxiv.org/abs/2102.06171).
 - [Distributed Shampoo](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [Second Order Optimization Made Practical](https://arxiv.org/abs/2002.09018).
 - [JAX (Flax) RL](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
+- [vgg16-haiku](https://github.com/davisyoshida/vgg16-haiku) - Pretrained VGG-16 network in Haiku.
 
 <a name="videos" />
 
