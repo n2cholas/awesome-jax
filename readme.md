@@ -67,6 +67,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [flaxmodels](https://github.com/matthias-wright/flaxmodels) - Pretrained models for Jax/Flax. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
 - [CR.Sparse](https://github.com/carnotresearch/cr-sparse) - XLA accelerated algorithms for sparse representations and compressive sensing. <img src="https://img.shields.io/github/stars/carnotresearch/cr-sparse?style=social" align="center">
 - [exojax](https://github.com/HajimeKawahara/exojax) - Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
+- [ott](https://github.com/google-research/ott) - A toolbox that bundles a few utilities to solve optimal transport problems. <img src="https://img.shields.io/github/stars/google-research/ott?style=social" align="center">
 
 <a name="models-and-projects" />
 
