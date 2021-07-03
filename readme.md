@@ -87,6 +87,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Distributed Shampoo](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [Second Order Optimization Made Practical](https://arxiv.org/abs/2002.09018).
 - [JAX (Flax) RL](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
 - [MLP Mixer (Flax)](https://github.com/SauravMaheshkar/MLP-Mixer) - Minimal Implementation of [MlP Mixer](https://arxiv.org/abs/2105.01601)
+- [gMLP](https://github.com/SauravMaheshkar/gMLP) - Implementation of [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050).
 
 <a name="videos" />
 
