@@ -75,22 +75,57 @@ This section contains libraries that are well-made and useful, but have not nece
 
 ## Models and Projects
 
-- [Performer](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
-- [Reformer](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
-- [Vision Transformer](https://github.com/google-research/vision_transformer) - Official implementation in Flax of [_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale_](https://arxiv.org/abs/2010.11929).
+### JAX
+
 - [Fourier Feature Networks](https://github.com/tancik/fourier-feature-networks) - Official implementation of [_Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains_](https://people.eecs.berkeley.edu/~bmild/fourfeat).
-- [Flax Models](https://github.com/google-research/google-research/tree/master/flax_models) - Collection of models and methods implemented in Flax.
-- [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) - Implementation of [_NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
-- [Big Transfer (BiT)](https://github.com/google-research/big_transfer) - Implementation of [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370).
-- [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
 - [kalman-jax](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
 - [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
 - [jaxns](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
-- [Normalizer-Free Networks](https://github.com/deepmind/deepmind-research/tree/master/nfnets) - Official Haiku implementation of [NFNets](https://arxiv.org/abs/2102.06171).
-- [Distributed Shampoo](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [Second Order Optimization Made Practical](https://arxiv.org/abs/2002.09018).
-- [JAX (Flax) RL](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
-- [MLP Mixer (Flax)](https://github.com/SauravMaheshkar/MLP-Mixer) - Minimal Implementation of [MlP Mixer](https://arxiv.org/abs/2105.01601)
-- [gMLP](https://github.com/SauravMaheshkar/gMLP) - Implementation of [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050).
+- [Amortized Bayesian Optimization](https://github.com/google-research/google-research/tree/master/amortized_bo) - Code related to [_Amortized Bayesian Optimization over Discrete Spaces_](http://www.auai.org/uai2020/proceedings/329_main_paper.pdf).
+- [Accurate Quantized Training](https://github.com/google-research/google-research/tree/master/aqt) - Tools and libraries for running and analyzing neural network quantization experiments in JAX and Flax.
+- [BNN-HMC](https://github.com/google-research/google-research/tree/master/bnn_hmc) - Implementation for the paper [_What Are Bayesian Neural Network Posteriors Really Like?_](https://arxiv.org/abs/2104.14421).
+- [JAX-DFT](https://github.com/google-research/google-research/tree/master/jax_dft) - One-dimensional density functional theory (DFT) in JAX, with implementation of [_Kohn-Sham equations as regularizer: building prior knowledge into machine-learned physics_](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.036401).
+- [Robust Loss](https://github.com/google-research/google-research/tree/master/robust_loss_jax) - Reference code for the paper [_A General and Adaptive Robust Loss Function_](https://arxiv.org/abs/1701.03077).
+
+### Flax
+
+- [Performer](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
+- [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) - Implementation of [_NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
+- [Big Transfer (BiT)](https://github.com/google-research/big_transfer) - Implementation of [_Big Transfer (BiT): General Visual Representation Learning_](https://arxiv.org/abs/1912.11370).
+- [JAX RL](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
+- [gMLP](https://github.com/SauravMaheshkar/gMLP) - Implementation of [_Pay Attention to MLPs_](https://arxiv.org/abs/2105.08050).
+- [MLP Mixer](https://github.com/SauravMaheshkar/MLP-Mixer) - Minimal implementation of [_MLP-Mixer: An all-MLP Architecture for Vision_](https://arxiv.org/abs/2105.01601).
+- [Distributed Shampoo](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [_Second Order Optimization Made Practical_](https://arxiv.org/abs/2002.09018).
+- [NesT](https://github.com/google-research/nested-transformer) - Official implementation of [_Aggregating Nested Transformers_](https://arxiv.org/abs/2105.12723).
+- [XMC-GAN](https://github.com/google-research/xmcgan_image_generation) - Official implementation of [_Cross-Modal Contrastive Learning for Text-to-Image Generation_](https://arxiv.org/abs/2101.04702).
+- [FNet](https://github.com/google-research/google-research/tree/master/f_net) - Official implementation of [_FNet: Mixing Tokens with Fourier Transforms_](https://arxiv.org/abs/2105.03824).
+- [GFSA](https://github.com/google-research/google-research/tree/master/gfsa) - Official implementation of [_Learning Graph Structure With A Finite-State Automaton Layer_](https://arxiv.org/abs/2007.04929).
+- [IPA-GNN](https://github.com/google-research/google-research/tree/master/ipagnn) - Official implementation of [_Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks_](https://arxiv.org/abs/2010.12621).
+- [Flax Models](https://github.com/google-research/google-research/tree/master/flax_models) - Collection of models and methods implemented in Flax.
+- [Protein LM](https://github.com/google-research/google-research/tree/master/protein_lm) - Implements BERT and autoregressive models for proteins, as described in [_Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences_](https://www.biorxiv.org/content/10.1101/622803v1.full) and [_ProGen: Language Modeling for Protein Generation_](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2).
+- [Slot Attention](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection) - Reference implementation for [_Differentiable Patch Selection for Image Recognition_](https://arxiv.org/abs/2104.03059).
+- [Vision Transformer](https://github.com/google-research/vision_transformer) - Official implementation of [_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale_](https://arxiv.org/abs/2010.11929).
+- [FID computation](https://github.com/matthias-wright/jax-fid) - Port of [mseitzer/pytorch-fid](https://github.com/mseitzer/pytorch-fid) to Flax.
+
+### Haiku
+
+- [AlphaFold](https://github.com/deepmind/alphafold) - Implementation of the inference pipeline of AlphaFold v2.0, presented in [_Highly accurate protein structure prediction with AlphaFold_](https://www.nature.com/articles/s41586-021-03819-2).
+- [Adversarial Robustness](https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness) - Reference code for [_Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples_](https://arxiv.org/abs/2010.03593) and [_Fixing Data Augmentation to Improve Adversarial Robustness_](https://arxiv.org/abs/2103.01946).
+- [Bootstrap Your Own Latent](https://github.com/deepmind/deepmind-research/tree/master/byol) - Implementation for the paper [_Bootstrap your own latent: A new approach to self-supervised Learning_](https://arxiv.org/abs/2006.07733).
+- [Gated Linear Networks](https://github.com/deepmind/deepmind-research/tree/master/gated_linear_networks) - GLNs are a family of backpropagation-free neural networks.
+- [Glassy Dynamics](https://github.com/deepmind/deepmind-research/tree/master/glassy_dynamics) - Open source implementation of the paper [_Unveiling the predictive power of static structure in glassy systems_](https://www.nature.com/articles/s41567-020-0842-8).
+- [MMV](https://github.com/deepmind/deepmind-research/tree/master/mmv) - Code for the models in [_Self-Supervised MultiModal Versatile Networks_](https://arxiv.org/abs/2006.16228).
+- [Normalizer-Free Networks](https://github.com/deepmind/deepmind-research/tree/master/nfnets) - Official Haiku implementation of [_NFNets_](https://arxiv.org/abs/2102.06171).
+- [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
+- [OGB-LSC](https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc) - This repository contains DeepMind's entry to the [PCQM4M-LSC](https://ogb.stanford.edu/kddcup2021/pcqm4m/) (quantum chemistry) and [MAG240M-LSC](https://ogb.stanford.edu/kddcup2021/mag240m/) (academic graph)
+tracks of the [OGB Large-Scale Challenge](https://ogb.stanford.edu/kddcup2021/) (OGB-LSC).
+- [Persistent Evolution Strategies](https://github.com/google-research/google-research/tree/master/persistent_es) - Code used for the paper [_Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies_](http://proceedings.mlr.press/v139/vicol21a.html).
+- [WikiGraphs](https://github.com/deepmind/deepmind-research/tree/master/wikigraphs) - Baseline code to reproduce results in [_WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Datase_](https://aclanthology.org/2021.textgraphs-1.7).
+
+### Trax
+
+- [Reformer](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
+
 
 <a name="videos" />
 
@@ -104,6 +139,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [JAX on Cloud TPUs | NeurIPS 2020 | Skye Wanderman-Milne and James Bradbury](https://drive.google.com/file/d/1jKxefZT1xJDUxMman6qrQVed7vWI0MIn/edit) - Presentation of TPU host access with demo.
 - [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond | NeurIPS 2020](https://slideslive.com/38935810/deep-implicit-layers-neural-odes-equilibrium-models-and-beyond) - Tutorial created by Zico Kolter, David Duvenaud, and Matt Johnson with Colab notebooks avaliable in [_Deep Implicit Layers_](http://implicit-layers-tutorial.org).
 - [Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey](http://matpalm.com/blog/ymxb_pod_slice/) - A four part YouTube tutorial series with Colab notebooks that starts with Jax fundamentals and moves up to training with a data parallel approach on a v3-32 TPU Pod slice.
+- [JAX, Flax & Transformers 🤗](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
 
 <a name="papers" />
 
