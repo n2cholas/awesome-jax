@@ -73,6 +73,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [PIX](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
 - [bayex](https://github.com/alonfnt/bayex) - Bayesian Optimization powered by JAX. <img src="https://img.shields.io/github/stars/alonfnt/bayex?style=social" align="center">
 - [JaxDF](https://github.com/ucl-bug/jaxdf) - Framework for differentiable simulators with arbitrary discretizations. <img src="https://img.shields.io/github/stars/ucl-bug/jaxdf?style=social" align="center">
+- [tree-math](https://github.com/google/tree-math) - Convert functions that operate on arrays into functions that operate on PyTrees.
 
 <a name="models-and-projects" />
 
