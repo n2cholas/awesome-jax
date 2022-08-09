@@ -87,6 +87,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search algorithms in native JAX. <img src="https://img.shields.io/github/stars/deepmind/mctx?style=social" align="center">
 - [KFAC-JAX](https://github.com/deepmind/kfac-jax) - Second Order Optimization with Approximate Curvature for NNs. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
 - [TF2JAX](https://github.com/deepmind/tf2jax) - Convert functions/graphs to JAX functions. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
+- [jwave](https://github.com/ucl-bug/jwave) - A JAX-based research framework for differentiable and parallelizable acoustic simulations, on CPU, GPUs and TPUs 
 
 
 <a name="models-and-projects" />
