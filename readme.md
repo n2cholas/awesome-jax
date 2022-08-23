@@ -215,6 +215,10 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 - [How to add a progress bar to JAX scans and loops by Jeremie Coullon](https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/) - Tutorial on how to add a progress bar to compiled loops in JAX using the `host_callback` module.
 - [Get started with JAX by Aleksa Gordić](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
 
+<a name="tutorials-and-blog-posts" />
+
+## Books
+
 <a name="community" />
 
 ## Community
