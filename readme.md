@@ -88,7 +88,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [KFAC-JAX](https://github.com/deepmind/kfac-jax) - Second Order Optimization with Approximate Curvature for NNs. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
 - [TF2JAX](https://github.com/deepmind/tf2jax) - Convert functions/graphs to JAX functions. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
 - [jwave](https://github.com/ucl-bug/jwave) - A library for differentiable acoustic simulations <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
-
+- [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
 
 <a name="models-and-projects" />
 
@@ -98,7 +98,6 @@ This section contains libraries that are well-made and useful, but have not nece
 
 - [Fourier Feature Networks](https://github.com/tancik/fourier-feature-networks) - Official implementation of [_Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains_](https://people.eecs.berkeley.edu/~bmild/fourfeat).
 - [kalman-jax](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
-- [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
 - [jaxns](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
 - [Amortized Bayesian Optimization](https://github.com/google-research/google-research/tree/master/amortized_bo) - Code related to [_Amortized Bayesian Optimization over Discrete Spaces_](http://www.auai.org/uai2020/proceedings/329_main_paper.pdf).
 - [Accurate Quantized Training](https://github.com/google-research/google-research/tree/master/aqt) - Tools and libraries for running and analyzing neural network quantization experiments in JAX and Flax.
