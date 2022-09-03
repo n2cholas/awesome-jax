@@ -89,6 +89,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [TF2JAX](https://github.com/deepmind/tf2jax) - Convert functions/graphs to JAX functions. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
 - [jwave](https://github.com/ucl-bug/jwave) - A library for differentiable acoustic simulations <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
 - [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
+- [Jumanji](https://github.com/instadeepai/jumanji) - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX. <img src="https://img.shields.io/github/stars/instadeepai/jumanji?style=social" align="center">
 
 <a name="models-and-projects" />
 
