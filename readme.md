@@ -90,6 +90,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [jwave](https://github.com/ucl-bug/jwave) - A library for differentiable acoustic simulations <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
 - [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
 - [Jumanji](https://github.com/instadeepai/jumanji) - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX. <img src="https://img.shields.io/github/stars/instadeepai/jumanji?style=social" align="center">
+- [Eqxvision](https://github.com/paganpasta/eqxvision) - Equinox version of Torchvision. <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
 
 <a name="models-and-projects" />
 
