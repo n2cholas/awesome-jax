@@ -14,6 +14,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [Videos](#videos)
 - [Papers](#papers)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+- [Books](#books)
 - [Community](#community)
 
 <a name="libraries" />
@@ -220,6 +221,12 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 - [Writing a Training Loop in JAX + FLAX by Saurav Maheshkar and Soumik Rakshit](https://wandb.ai/jax-series/simple-training-loop/reports/Writing-a-Training-Loop-in-JAX-FLAX--VmlldzoyMzA4ODEy) - A tutorial on writing a simple end-to-end training and evaluation pipeline in JAX, Flax and Optax.
 - [Implementing NeRF in JAX by Soumik Rakshit and Saurav Maheshkar](https://wandb.ai/wandb/nerf-jax/reports/Implementing-NeRF-in-JAX--VmlldzoxODA2NDk2?galleryTag=jax) - A tutorial on 3D volumetric rendering of scenes represented by Neural Radiance Fields in JAX.
 - [Deep Learning tutorials with JAX+Flax by Phillip Lippe](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial2/Introduction_to_JAX.html) - A series of notebooks explaining various deep learning concepts, from basics (e.g. intro to JAX/Flax, activiation functions) to recent advances (e.g., Vision Transformers, SimCLR), with translations to PyTorch.
+
+<a name="books" />
+
+## Books
+
+- [Jax in Action](https://www.manning.com/books/jax-in-action) - A hands-on guide to using JAX for deep learning and other mathematically-intensive applications.
 
 <a name="community" />
 
