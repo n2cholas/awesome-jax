@@ -167,6 +167,10 @@ tracks of the [OGB Large-Scale Challenge](https://ogb.stanford.edu/kddcup2021/) 
 
 - [Reformer](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
 
+### NumPyro
+
+- [lqg](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [Putting perception into action with inverse optimal control for continuous psychophysics](https://elifesciences.org/articles/76635)
+
 
 <a name="videos" />
 
