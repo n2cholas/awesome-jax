@@ -169,7 +169,7 @@ tracks of the [OGB Large-Scale Challenge](https://ogb.stanford.edu/kddcup2021/) 
 
 ### NumPyro
 
-- [lqg](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [Putting perception into action with inverse optimal control for continuous psychophysics](https://elifesciences.org/articles/76635)
+- [lqg](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [_Putting perception into action with inverse optimal control for continuous psychophysics_](https://elifesciences.org/articles/76635)
 
 
 <a name="videos" />
