@@ -98,6 +98,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [SPU](https://github.com/secretflow/spu) - A domain-specific compiler and runtime suite to run JAX code with MPC(Secure Multi-Party Computation). <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
 - [jax-tqdm](https://github.com/jeremiecoullon/jax-tqdm) - Add a tqdm progress bar to JAX scans and loops. <img src="https://img.shields.io/github/stars/jeremiecoullon/jax-tqdm?style=social" align="center">
 - [safejax](https://github.com/alvarobartt/safejax) - Serialize JAX, Flax, Haiku, or Objax model params with 🤗`safetensors`. <img src="https://img.shields.io/github/stars/alvarobartt/safejax?style=social" align="center">
+- [ProbDiffEq](https://github.com/pnkraemer/probdiffeq) - Probabilistic solvers for differential equations in JAX. <img src="https://img.shields.io/github/stars/pnkraemer/probdiffeq?style=social" align="center">
 
 <a name="models-and-projects" />
 
