@@ -99,7 +99,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [jax-tqdm](https://github.com/jeremiecoullon/jax-tqdm) - Add a tqdm progress bar to JAX scans and loops. <img src="https://img.shields.io/github/stars/jeremiecoullon/jax-tqdm?style=social" align="center">
 - [safejax](https://github.com/alvarobartt/safejax) - Serialize JAX, Flax, Haiku, or Objax model params with 🤗`safetensors`. <img src="https://img.shields.io/github/stars/alvarobartt/safejax?style=social" align="center">
 - [Kernex](https://github.com/ASEM000/kernex) - Differentiable stencil decorators in JAX.
-- [SCICO](https://github.com/lanl/scico) - Scientific computational imaging in JAX.
+- [SCICO](https://github.com/lanl/scico) - Scientific computational imaging in JAX. <img src="https://img.shields.io/github/stars/lanl/scico?style=social" align="center">
 
 <a name="models-and-projects" />
 
