@@ -9,16 +9,13 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 
 ## Contents
 
-- [Awesome JAX ](#awesome-jax-)
-  - [Contents](#contents)
-  - [Libraries](#libraries)
-  - [Models and Projects](#models-and-projects)
-  - [Videos](#videos)
-  - [Papers](#papers)
-  - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
-  - [Books](#books)
-  - [Community](#community)
-  - [Contributing](#contributing)
+- [Libraries](#libraries)
+- [Models and Projects](#models-and-projects)
+- [Videos](#videos)
+- [Papers](#papers)
+- [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+- [Books](#books)
+- [Community](#community)
 
 <a name="libraries" />
 
