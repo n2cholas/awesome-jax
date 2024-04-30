@@ -12,13 +12,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [Awesome JAX ](#awesome-jax-)
   - [Contents](#contents)
   - [Libraries](#libraries)
-    - [New Libraries](#new-libraries)
   - [Models and Projects](#models-and-projects)
-    - [JAX](#jax)
-    - [Flax](#flax)
-    - [Haiku](#haiku)
-    - [Trax](#trax)
-    - [NumPyro](#numpyro)
   - [Videos](#videos)
   - [Papers](#papers)
   - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
@@ -41,6 +35,8 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
     - [HuggingFace](https://github.com/huggingface/transformers) - Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax). <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
     - [Equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations => neural networks in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/equinox?style=social" align="center">
     - [Scenic](https://github.com/google-research/scenic) - A Jax Library for Computer Vision Research and Beyond.  <img src="https://img.shields.io/github/stars/google-research/scenic?style=social" align="center">
+- [Levanter](https://github.com/stanford-crfm/levanter) - Legible, Scalable, Reproducible Foundation Models with Named Tensors and JAX.  <img src="https://img.shields.io/github/stars/stanford-crfm/levanter?style=social" align="center">
+- [EasyLM](https://github.com/young-geng/EasyLM) - LLMs made easy: Pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.  <img src="https://img.shields.io/github/stars/young-geng/EasyLM?style=social" align="center">
 - [NumPyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming based on the Pyro library. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
 - [Chex](https://github.com/deepmind/chex) - Utilities to write and test reliable JAX code. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
 - [Optax](https://github.com/deepmind/optax) - Gradient processing and optimization library. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
@@ -124,6 +120,10 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Pgx](http://github.com/sotetsuk/pgx) - Vectorized board game environments for RL with an AlphaZero example. <img src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" align="center">
 - [EasyDeL](https://github.com/erfanzar/EasyDeL) - EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and
   serving (Llama, MPT, Mixtral, Falcon ...) in JAX <img src="https://img.shields.io/github/stars/erfanzar/EasyDeL?style=social" align="center">
+- [XLB](https://github.com/Autodesk/XLB) - A Differentiable Massively Parallel Lattice Boltzmann Library in Python for Physics-Based Machine Learning. <img src="https://img.shields.io/github/stars/Autodesk/XLB?style=social" align="center">
+- [dynamiqs](https://github.com/dynamiqs/dynamiqs) - High-performance and differentiable simulations of quantum systems with JAX. <img src="https://img.shields.io/github/stars/dynamiqs/dynamiqs?style=social" align="center">
+
+
 <a name="models-and-projects" />
 
 ## Models and Projects
@@ -227,6 +227,8 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 - [__Compiling machine learning programs via high-level tracing__. Roy Frostig, Matthew James Johnson, Chris Leary. _MLSys 2018_.](https://mlsys.org/Conferences/doc/2018/146.pdf) - White paper describing an early version of JAX, detailing how computation is traced and compiled.
 - [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) - Introduces JAX, M.D., a differentiable physics library which includes simulation environments, interaction potentials, neural networks, and more.
 - [__Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization__. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. _arXiv 2020_.](https://arxiv.org/abs/2010.09063) - Uses JAX's JIT and VMAP to achieve faster differentially private than existing libraries.
+- [__XLB: A Differentiable Massively Parallel Lattice Boltzmann Library in Python__. Mohammadmehdi Ataei, Hesam Salehipour. _arXiv 2023_.](https://arxiv.org/abs/2311.16080) - White paper describing the XLB library: benchmarks, validations, and more details about the library.
+
 <!--lint enable awesome-list-item-->
 
 <a name="tutorials-and-blog-posts" />
@@ -269,6 +271,7 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 
 ## Community
 
+- [JaxLLM (Unofficial) Discord](https://discord.com/channels/1107832795377713302/1107832795688083561)
 - [JAX GitHub Discussions](https://github.com/google/jax/discussions)
 - [Reddit](https://www.reddit.com/r/JAX/)
 
