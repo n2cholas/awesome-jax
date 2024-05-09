@@ -118,6 +118,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [EasyDeL](https://github.com/erfanzar/EasyDeL) - EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and serving (Llama, MPT, Mixtral, Falcon, etc) in JAX <img src="https://img.shields.io/github/stars/erfanzar/EasyDeL?style=social" align="center">
 - [XLB](https://github.com/Autodesk/XLB) - A Differentiable Massively Parallel Lattice Boltzmann Library in Python for Physics-Based Machine Learning. <img src="https://img.shields.io/github/stars/Autodesk/XLB?style=social" align="center">
 - [dynamiqs](https://github.com/dynamiqs/dynamiqs) - High-performance and differentiable simulations of quantum systems with JAX. <img src="https://img.shields.io/github/stars/dynamiqs/dynamiqs?style=social" align="center">
+- [sparsejac](https://github.com/mfschubert/sparsejac) - Efficient forward- and reverse-mode sparse jacobians with JAX. <img src="https://img.shields.io/github/stars/mfschubert/sparsejac?style=social" align="center">
 
 
 <a name="models-and-projects" />
