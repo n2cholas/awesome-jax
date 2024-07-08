@@ -139,6 +139,7 @@ This section contains libraries that are well-made and useful, but have not nece
 
 ### Flax
 
+- [DETR](https://github.com/MasterSkepticista/detr) - Flax implementation of [_DETR: End-to-end Object Detection with Transformers_](https://github.com/facebookresearch/detr) using Sinkhorn solver and parallel bipartite matching.
 - [Performer](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
 - [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) - Implementation of [_NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
 - [mip-NeRF](https://github.com/google/mipnerf) - Official implementation of [_Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields_](https://jonbarron.info/mipnerf).
