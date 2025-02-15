@@ -128,7 +128,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [EasyDeL](https://github.com/erfanzar/EasyDeL) - EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and serving (Llama, MPT, Mixtral, Falcon, etc) in JAX <img src="https://img.shields.io/github/stars/erfanzar/EasyDeL?style=social" align="center">
 - [XLB](https://github.com/Autodesk/XLB) - A Differentiable Massively Parallel Lattice Boltzmann Library in Python for Physics-Based Machine Learning. <img src="https://img.shields.io/github/stars/Autodesk/XLB?style=social" align="center">
 - [dynamiqs](https://github.com/dynamiqs/dynamiqs) - High-performance and differentiable simulations of quantum systems with JAX. <img src="https://img.shields.io/github/stars/dynamiqs/dynamiqs?style=social" align="center">
-- [foragax](https://github.com/i-m-iron-man/Foragax)- Agent-Based modelling framework in JAX
+- [foragax](https://github.com/i-m-iron-man/Foragax) - Agent-Based modelling framework in JAX
 - [tmmax](https://github.com/bahremsd/tmmax) - Vectorized calculation of optical properties in thin-film structures using JAX. Swiss Army knife tool for thin-film optics research <img src="https://img.shields.io/github/stars/bahremsd/tmmax" align="center">
 - [Coreax](https://github.com/gchq/coreax) - Algorithms for finding coresets to compress large datasets while retaining their statistical properties. <img src="https://img.shields.io/github/stars/gchq/coreax?style=social" align="center">
 - [NAVIX](https://github.com/epignatelli/navix) - A reimplementation of MiniGrid, a Reinforcement Learning environment, in JAX <img src="https://img.shields.io/github/stars/epignatelli/navix?style=social" align="center">
@@ -153,12 +153,11 @@ This section contains libraries that are well-made and useful, but have not nece
 
 ### Flax
 
-- [DETR](https://github.com/MasterSkepticista/detr) - Flax implementation of [_DETR: End-to-end Object Detection with Transformers_](https://github.com/facebookresearch/detr) using Sinkhorn solver and parallel bipartite matching.
 - [Performer](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
 - [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) - Implementation of [_NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
 - [mip-NeRF](https://github.com/google/mipnerf) - Official implementation of [_Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields_](https://jonbarron.info/mipnerf).
 - [RegNeRF](https://github.com/google-research/google-research/tree/master/regnerf) - Official implementation of [_RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs_](https://m-niemeyer.github.io/regnerf/).
-- [JaxNeuS](https://github.com/huangjuite/jaxneus) - Implementation of [ NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction_](https://lingjie0206.github.io/papers/NeuS/)
+- [JaxNeuS](https://github.com/huangjuite/jaxneus) - Implementation of [_NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction_](https://lingjie0206.github.io/papers/NeuS/)
 - [Big Transfer (BiT)](https://github.com/google-research/big_transfer) - Implementation of [_Big Transfer (BiT): General Visual Representation Learning_](https://arxiv.org/abs/1912.11370).
 - [JAX RL](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
 - [gMLP](https://github.com/SauravMaheshkar/gMLP) - Implementation of [_Pay Attention to MLPs_](https://arxiv.org/abs/2105.08050).
@@ -189,6 +188,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Light Field Neural Rendering](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) - Official implementation of [_Light Field Neural Rendering_](https://arxiv.org/abs/2112.09687).
 - [Sharpened Cosine Similarity in JAX by Raphael Pisoni](https://colab.research.google.com/drive/1KUKFEMneQMS3OzPYnWZGkEnry3PdzCfn?usp=sharing) -  A JAX/Flax implementation of the Sharpened Cosine Similarity layer.
 - [GNNs for Solving Combinatorial Optimization Problems](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+- [DETR](https://github.com/MasterSkepticista/detr) - Flax implementation of [_DETR: End-to-end Object Detection with Transformers_](https://github.com/facebookresearch/detr) using Sinkhorn solver and parallel bipartite matching.
 
 ### Haiku
 
