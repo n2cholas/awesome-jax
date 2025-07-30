@@ -132,7 +132,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [tmmax](https://github.com/bahremsd/tmmax) - Vectorized calculation of optical properties in thin-film structures using JAX. Swiss Army knife tool for thin-film optics research <img src="https://img.shields.io/github/stars/bahremsd/tmmax" align="center">
 - [Coreax](https://github.com/gchq/coreax) - Algorithms for finding coresets to compress large datasets while retaining their statistical properties. <img src="https://img.shields.io/github/stars/gchq/coreax?style=social" align="center">
 - [NAVIX](https://github.com/epignatelli/navix) - A reimplementation of MiniGrid, a Reinforcement Learning environment, in JAX <img src="https://img.shields.io/github/stars/epignatelli/navix?style=social" align="center">
-
+- [FDTDX](https://github.com/ymahlau/fdtdx) - Finite-Difference Time-Domain Electromagnetic Simulations in JAX <img src="https://img.shields.io/github/stars/ymahlau/fdtdx?style=social" align="center">
 
 <a name="models-and-projects" />
 
