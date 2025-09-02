@@ -59,12 +59,14 @@ This section contains libraries that are well-made and useful, but have not nece
     - [FedJAX](https://github.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
     - [Equivariant MLP](https://github.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
     - [jax-resnet](https://github.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
+    - [jax-raft](https://github.com/alebeck/jax-raft/) - JAX/Flax port of the RAFT optical flow estimator. <img src="https://img.shields.io/github/stars/alebeck/jax-raft?style=social" align="center">
     - [Parallax](https://github.com/srush/parallax) - Immutable Torch Modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
 - Nonlinear Optimization
     - [Optimistix](https://github.com/patrick-kidger/optimistix) - Root finding, minimisation, fixed points, and least squares. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
     - [JAXopt](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
 - [jax-unirep](https://github.com/ElArkk/jax-unirep) - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 - [flowjax](https://github.com/danielward27/flowjax) - Distributions and normalizing flows built as equinox modules. <img src="https://img.shields.io/github/stars/danielward27/flowjax?style=social" align="center">
+- [flaxdiff](https://github.com/AshishKumar4/FlaxDiff) - Framework and Library for building and training Diffusion models in multi-node multi-device distributed settings (TPUs) <img src="https://img.shields.io/github/stars/AshishKumar4/FlaxDiff?style=social" align="center">
 - [jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 - [sklearn-jax-kernels](https://github.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
 - [jax-cosmo](https://github.com/DifferentiableUniverseInitiative/jax_cosmo) - Differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
@@ -133,6 +135,9 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Coreax](https://github.com/gchq/coreax) - Algorithms for finding coresets to compress large datasets while retaining their statistical properties. <img src="https://img.shields.io/github/stars/gchq/coreax?style=social" align="center">
 - [NAVIX](https://github.com/epignatelli/navix) - A reimplementation of MiniGrid, a Reinforcement Learning environment, in JAX <img src="https://img.shields.io/github/stars/epignatelli/navix?style=social" align="center">
 - [DiffeRT](https://github.com/jeertmans/DiffeRT) - Differentiable Ray Tracing toolbox for Radio Propagation powered by the JAX ecosystem. <img src="https://img.shields.io/github/stars/jeertmans/DiffeRT?style=social" align="center">
+- [JAX-in-Cell](https://github.com/uwplasma/JAX-in-Cell) - Plasma physics simulations using a PIC (Particle-in-Cell) method to self-consistently solve for electron and ion dynamics in electromagnetic fields <img src="https://img.shields.io/github/stars/uwplasma/JAX-in-Cell?style=social" align="center">
+- [kvax](https://github.com/nebius/kvax) - A FlashAttention implementation for JAX with support for efficient document mask computation and context parallelism. <img src="https://img.shields.io/github/stars/nebius/kvax?style=social" align="center">
+
 
 <a name="models-and-projects" />
 
@@ -153,6 +158,7 @@ This section contains libraries that are well-made and useful, but have not nece
 
 ### Flax
 
+- [awesome-jax-flax-llms](https://github.com/your-username/awesome-jax-flax-llms) – Collection of LLMs implemented in **JAX** & **Flax**
 - [DeepSeek-R1-Flax-1.5B-Distill](https://github.com/J-Rosser-UK/Torch2Jax-DeepSeek-R1-Distill-Qwen-1.5B) - Flax implementation of DeepSeek-R1 1.5B distilled reasoning LLM.
 - [Performer](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
 - [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) - Implementation of [_NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
