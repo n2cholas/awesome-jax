@@ -12,7 +12,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [Libraries](#libraries)
 - [Models and Projects](#models-and-projects)
 - [Videos](#videos)
-- [Papers](#papers)
+- [Papers](#papers)https://github.com/jax-ml/jax
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
 - [Books](#books)
 - [Community](#community)
@@ -134,6 +134,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [tmmax](https://github.com/bahremsd/tmmax) - Vectorized calculation of optical properties in thin-film structures using JAX. Swiss Army knife tool for thin-film optics research <img src="https://img.shields.io/github/stars/bahremsd/tmmax" align="center">
 - [Coreax](https://github.com/gchq/coreax) - Algorithms for finding coresets to compress large datasets while retaining their statistical properties. <img src="https://img.shields.io/github/stars/gchq/coreax?style=social" align="center">
 - [NAVIX](https://github.com/epignatelli/navix) - A reimplementation of MiniGrid, a Reinforcement Learning environment, in JAX <img src="https://img.shields.io/github/stars/epignatelli/navix?style=social" align="center">
+- [FDTDX](https://github.com/ymahlau/fdtdx) - Finite-Difference Time-Domain Electromagnetic Simulations in JAX <img src="https://img.shields.io/github/stars/ymahlau/fdtdx?style=social" align="center">
 - [DiffeRT](https://github.com/jeertmans/DiffeRT) - Differentiable Ray Tracing toolbox for Radio Propagation powered by the JAX ecosystem. <img src="https://img.shields.io/github/stars/jeertmans/DiffeRT?style=social" align="center">
 - [JAX-in-Cell](https://github.com/uwplasma/JAX-in-Cell) - Plasma physics simulations using a PIC (Particle-in-Cell) method to self-consistently solve for electron and ion dynamics in electromagnetic fields <img src="https://img.shields.io/github/stars/uwplasma/JAX-in-Cell?style=social" align="center">
 - [kvax](https://github.com/nebius/kvax) - A FlashAttention implementation for JAX with support for efficient document mask computation and context parallelism. <img src="https://img.shields.io/github/stars/nebius/kvax?style=social" align="center">
