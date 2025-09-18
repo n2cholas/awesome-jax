@@ -141,7 +141,6 @@ This section contains libraries that are well-made and useful, but have not nece
 - [MBIRJAX](https://github.com/cabouman/mbirjax) - High-performance tomographic reconstruction. <img src="https://img.shields.io/github/stars/cabouman/mbirjax?style-social" align="center">
 
 
-
 <a name="models-and-projects" />
 
 ## Models and Projects
