@@ -48,6 +48,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [NetKet](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 - [Fortuna](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
 - [BlackJAX](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
+- [Dynamax](https://github.com/probml/dynamax) - Probabilistic state space models.
 
 <a name="new-libraries" />
 
@@ -139,7 +140,8 @@ This section contains libraries that are well-made and useful, but have not nece
 - [JAX-in-Cell](https://github.com/uwplasma/JAX-in-Cell) - Plasma physics simulations using a PIC (Particle-in-Cell) method to self-consistently solve for electron and ion dynamics in electromagnetic fields <img src="https://img.shields.io/github/stars/uwplasma/JAX-in-Cell?style=social" align="center">
 - [kvax](https://github.com/nebius/kvax) - A FlashAttention implementation for JAX with support for efficient document mask computation and context parallelism. <img src="https://img.shields.io/github/stars/nebius/kvax?style=social" align="center">
 - [astronomix](https://github.com/leo1200/astronomix) - differentiable (magneto)hydrodynamics for astrophysics in JAX <img src="https://img.shields.io/github/stars/leo1200/astronomix?style=social" align="center">
-
+- [vivsim](https://github.com/haimingz/vivsim) - Fluid-structure interaction simulations using Immersed Boundary-Lattice Boltzmann Method. <img src="https://img.shields.io/github/stars/haimingz/vivsim?style=social" align="center">
+- [MBIRJAX](https://github.com/cabouman/mbirjax) - High-performance tomographic reconstruction. <img src="https://img.shields.io/github/stars/cabouman/mbirjax?style-social" align="center">
 
 <a name="models-and-projects" />
 
