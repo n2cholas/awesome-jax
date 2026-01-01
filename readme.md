@@ -48,6 +48,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [NetKet](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 - [Fortuna](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
 - [BlackJAX](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
+- [Dynamax](https://github.com/probml/dynamax) - Probabilistic state space models.
 
 <a name="new-libraries" />
 
