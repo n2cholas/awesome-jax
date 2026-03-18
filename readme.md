@@ -143,6 +143,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [vivsim](https://github.com/haimingz/vivsim) - Fluid-structure interaction simulations using Immersed Boundary-Lattice Boltzmann Method. <img src="https://img.shields.io/github/stars/haimingz/vivsim?style=social" align="center">
 - [MBIRJAX](https://github.com/cabouman/mbirjax) - High-performance tomographic reconstruction. <img src="https://img.shields.io/github/stars/cabouman/mbirjax?style-social" align="center">
 - [torchax](https://github.com/google/torchax/) - torchax is a library for Jax to interoperate with model code written in PyTorch.<img src="https://img.shields.io/github/stars/google/torchax?style=social" align="center">
+- [Exponax](https://github.com/Ceyron/exponax) - Efficient PDE solvers in 1D, 2D, and 3D using Fourier spectral methods and exponential time differencing. <img src="https://img.shields.io/github/stars/Ceyron/exponax?style=social" align="center">
 
 <a name="models-and-projects" />
 
