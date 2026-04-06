@@ -7,6 +7,7 @@
 
 This is a curated list of awesome JAX libraries, projects, and other resources. Contributions are welcome!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for JAX development workflow orchestration, automated numerical computing management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Libraries](#libraries)
