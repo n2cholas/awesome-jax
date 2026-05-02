@@ -49,6 +49,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [Fortuna](https://github.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
 - [BlackJAX](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
 - [Dynamax](https://github.com/probml/dynamax) - Probabilistic state space models. <img src="https://img.shields.io/github/stars/probml/dynamax?style=social" align="center">
+- [bayes-hdc](https://github.com/rlogger/bayes-hdc) - Probabilistic hyperdimensional computing and vector symbolic architectures: Gaussian and Dirichlet hypervector types with closed-form moment propagation, end-to-end variational training, conformal prediction sets, and group-theoretic equivariance verifiers. <img src="https://img.shields.io/github/stars/rlogger/bayes-hdc?style=social" align="center">
 
 <a name="new-libraries" />
 
