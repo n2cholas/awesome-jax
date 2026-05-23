@@ -118,6 +118,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [Lorax](https://github.com/davisyoshida/lorax) - Automatically apply LoRA to JAX models (Flax, Haiku, etc.)
 - [SCICO](https://github.com/lanl/scico) - Scientific computational imaging in JAX. <img src="https://img.shields.io/github/stars/lanl/scico?style=social" align="center">
 - [Spyx](https://github.com/kmheckel/spyx) - Spiking Neural Networks in JAX for machine learning on neuromorphic hardware. <img src="https://img.shields.io/github/stars/kmheckel/spyx?style=social" align="center">
+- [neojax](https://github.com/paulgekeler/neojax) - Neural Operators in JAX and Equinox. <img src="https://img.shields.io/github/stars/paulgekeler/neojax?style=social" align="center">
 - Brain Dynamics Programming Ecosystem
     - [BrainPy](https://github.com/brainpy/BrainPy) - Brain Dynamics Programming in Python. <img src="https://img.shields.io/github/stars/brainpy/BrainPy?style=social" align="center">
     - [brainunit](https://github.com/chaobrain/brainunit) - Physical units and unit-aware mathematical system in JAX. <img src="https://img.shields.io/github/stars/chaobrain/brainunit?style=social" align="center">
