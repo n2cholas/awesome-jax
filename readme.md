@@ -150,6 +150,7 @@ This section contains libraries that are well-made and useful, but have not nece
 
 ### JAX
 
+- [JAX-MPM](https://github.com/IntelligentMechanicsLab/JAX-MPM) - Differentiable material point simulation in JAX, with public dam-break validation and particle-trajectory friction-inversion examples.
 - [Fourier Feature Networks](https://github.com/tancik/fourier-feature-networks) - Official implementation of [_Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains_](https://people.eecs.berkeley.edu/~bmild/fourfeat).
 - [kalman-jax](https://github.com/AaltoML/kalman-jax) - Approximate inference for Markov (i.e., temporal) Gaussian processes using iterated Kalman filtering and smoothing.
 - [jaxns](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
